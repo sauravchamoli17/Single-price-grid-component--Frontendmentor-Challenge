@@ -8,6 +8,8 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
+[Check out the solution here](https://sauravchamoli17.github.io/Single-price-grid-component--Frontendmentor-Challenge/)
+
 **To do these challenges, you need a basic understanding of HTML, CSS and (sometimes) JavaScript.**
 
 ## The challenge
